@@ -117,7 +117,7 @@ class HomeTableViewController: UITableViewController {
         cell.setRetweeted(tweetArray[indexPath.row]["retweeted"] as! Bool)
         
         return cell
-        
+    
     }
     
     
